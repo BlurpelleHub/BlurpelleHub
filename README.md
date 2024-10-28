@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BlurpelleHub
-- 📫 How to reach me (@idjeykc on twitter)
+🐦 @idjeykc
 
 <!---
 BlurpelleHub/BlurpelleHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
